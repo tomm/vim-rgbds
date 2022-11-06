@@ -69,7 +69,7 @@ let b:current_syntax = "rgb"
 hi link rgbSection     Special
 hi link rgbLabel       Identifier
 hi link rgbComment     Comment
-hi link rgbInstruction Ignore
+hi link rgbInstruction Keyword
 hi link rgbInclude     Include
 hi link rgbPreCondit   PreCondit
 hi link rgbMacro       Macro
